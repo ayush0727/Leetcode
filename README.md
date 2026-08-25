@@ -24,6 +24,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayush0727/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayush0727/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayush0727/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -74,4 +76,13 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayush0727/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayush0727/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayush0727/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ayush0727/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
