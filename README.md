@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush0727/Leetcode/tree/master/0002-add-two-numbers) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush0727/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ayush0727/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ayush0727/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
