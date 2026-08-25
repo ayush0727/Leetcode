@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush0727/Leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/ayush0727/Leetcode/tree/master/0009-palindrome-number) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
