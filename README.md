@@ -34,4 +34,8 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
+## String
+|  |
+| ------- |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayush0727/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 <!---LeetCode Topics End-->
