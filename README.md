@@ -45,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ayush0727/Leetcode/tree/master/0125-valid-palindrome) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayush0727/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush0727/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sorting
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush0727/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ayush0727/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
