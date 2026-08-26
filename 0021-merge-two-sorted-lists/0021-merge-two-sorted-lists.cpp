@@ -8,11 +8,10 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode dummy(0);  // dummy head
+        ListNode dummy(0);  
         ListNode* current = &dummy;
 
         while (list1 != nullptr && list2 != nullptr) {
@@ -25,8 +24,6 @@ public:
             }
             current = current->next;
         }
-
-        // Attach remaining nodes
         if (list1 != nullptr) current->next = list1;
         if (list2 != nullptr) current->next = list2;
 
