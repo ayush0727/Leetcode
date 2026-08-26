@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush0727/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ayush0727/Leetcode/tree/master/0169-majority-element) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush0727/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayush0727/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush0727/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ayush0727/Leetcode/tree/master/0169-majority-element) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush0727/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush0727/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayush0727/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -51,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayush0727/Leetcode/tree/master/0169-majority-element) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush0727/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Linked List
 |  |
@@ -92,4 +95,16 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ayush0727/Leetcode/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayush0727/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayush0727/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayush0727/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
