@@ -23,6 +23,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush0727/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ayush0727/Leetcode/tree/master/0009-palindrome-number) |
+| [0415-add-strings](https://github.com/ayush0727/Leetcode/tree/master/0415-add-strings) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ayush0727/Leetcode/tree/master/0125-valid-palindrome) |
+| [0415-add-strings](https://github.com/ayush0727/Leetcode/tree/master/0415-add-strings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayush0727/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush0727/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayush0727/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayush0727/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/ayush0727/Leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
