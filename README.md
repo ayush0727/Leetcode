@@ -54,6 +54,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayush0727/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush0727/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayush0727/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayush0727/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ayush0727/Leetcode/tree/master/0125-valid-palindrome) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayush0727/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ayush0727/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ayush0727/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
