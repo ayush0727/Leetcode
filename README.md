@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush0727/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ayush0727/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ayush0727/Leetcode/tree/master/0169-majority-element) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush0727/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush0727/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayush0727/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ayush0727/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/ayush0727/Leetcode/tree/master/0013-roman-to-integer) |
 | [0415-add-strings](https://github.com/ayush0727/Leetcode/tree/master/0415-add-strings) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
@@ -49,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ayush0727/Leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/ayush0727/Leetcode/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/ayush0727/Leetcode/tree/master/0415-add-strings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayush0727/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
