@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush0727/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/ayush0727/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/ayush0727/Leetcode/tree/master/0169-majority-element) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush0727/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -29,6 +30,7 @@
 | [0012-integer-to-roman](https://github.com/ayush0727/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayush0727/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ayush0727/Leetcode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/ayush0727/Leetcode/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/ayush0727/Leetcode/tree/master/0415-add-strings) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
