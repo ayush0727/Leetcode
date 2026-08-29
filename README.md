@@ -28,6 +28,7 @@
 | [0009-palindrome-number](https://github.com/ayush0727/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ayush0727/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayush0727/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/ayush0727/Leetcode/tree/master/0029-divide-two-integers) |
 | [0415-add-strings](https://github.com/ayush0727/Leetcode/tree/master/0415-add-strings) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
@@ -134,4 +135,8 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ayush0727/Leetcode/tree/master/0415-add-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ayush0727/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
