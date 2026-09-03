@@ -11,6 +11,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayush0727/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush0727/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayush0727/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ayush0727/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0066-plus-one](https://github.com/ayush0727/Leetcode/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/ayush0727/Leetcode/tree/master/0415-add-strings) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ayush0727/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
