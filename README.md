@@ -12,6 +12,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush0727/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayush0727/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayush0727/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/ayush0727/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
+| [3904-smallest-stable-index-ii](https://github.com/ayush0727/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
 |  |
 | ------- |
