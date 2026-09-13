@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ayush0727/Leetcode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/ayush0727/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/ayush0727/Leetcode/tree/master/0169-majority-element) |
+| [0835-image-overlap](https://github.com/ayush0727/Leetcode/tree/master/0835-image-overlap) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayush0727/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayush0727/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -165,5 +166,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/ayush0727/Leetcode/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayush0727/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
