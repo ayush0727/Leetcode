@@ -41,6 +41,7 @@
 | [0066-plus-one](https://github.com/ayush0727/Leetcode/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/ayush0727/Leetcode/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/ayush0727/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayush0727/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 | [3871-count-commas-in-range-ii](https://github.com/ayush0727/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayush0727/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush0727/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayush0727/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ayush0727/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Minimax
@@ -57,6 +59,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayush0727/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/ayush0727/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
@@ -177,4 +180,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ayush0727/Leetcode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayush0727/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
