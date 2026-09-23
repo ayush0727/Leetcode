@@ -9,6 +9,7 @@
 | [0169-majority-element](https://github.com/ayush0727/Leetcode/tree/master/0169-majority-element) |
 | [0835-image-overlap](https://github.com/ayush0727/Leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayush0727/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush0727/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayush0727/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayush0727/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -26,6 +27,7 @@
 | [0169-majority-element](https://github.com/ayush0727/Leetcode/tree/master/0169-majority-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayush0727/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ayush0727/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush0727/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ayush0727/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayush0727/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ayush0727/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ayush0727/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush0727/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/ayush0727/Leetcode/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/ayush0727/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
@@ -136,6 +139,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/ayush0727/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayush0727/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush0727/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,4 +204,5 @@
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ayush0727/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayush0727/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
